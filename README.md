@@ -25,10 +25,6 @@
   ## License
   This project is under the ISC license.
  
-
-  ## Contributing
-  none
-
   ## Tests
   none
 
