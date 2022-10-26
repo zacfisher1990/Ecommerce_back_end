@@ -5,6 +5,8 @@
   ## Description
   A back end application for an ecommerce database.
 
+  Link to video: https://drive.google.com/file/d/1sKBz7bTbQeLZvXyBzsR4Y-DicnzDNGgU/view
+
   ## Table of Content
    - [Project Description](#description)
    - [Installation](#installation)
